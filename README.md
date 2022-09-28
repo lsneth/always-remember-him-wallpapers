@@ -1,6 +1,6 @@
 # Overview
 
-I am creating this project to get a basic understanding of Android Studio and practice Java. It's an app that provides wallpapers of Jesus Christ. The purpose of this app is to help people remember Christ in their every day lives.
+This is an app that provides wallpapers of Jesus Christ. It's purpose is to help people remember Christ in their every day lives. I am creating this project to get a basic understanding of Android Studio and practice Java. 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
