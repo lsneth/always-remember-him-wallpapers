@@ -18,6 +18,7 @@ I am developing this app in Android Studio using Java and XML.
 
 # Future Work
 
+* Put in better wallpapers (the ones there now look kinda sketch)
 * Have a 'daily wallpaper' option that automatically sets a new wallpaper every day
 * Get the images dynamically from a folder, then later get them dynamically from a database. (Currently they are hardcoded.)
 * Optimize the UI for every Android experience. (The UI is currently optimized for a Google Pixel 5.)
