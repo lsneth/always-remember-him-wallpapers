@@ -1,10 +1,10 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I am creating this app to get a basic understanding of Android Studio and practice Java.
 
-{Provide a description of your app.  Describe how to use the app.}
+This is an app that provides wallpapers of Jesus Christ. Simply download the app, choose a wallpaper, and select "Set Wallpaper!"
 
-{Describe your purpose for creating this app.}
+The purpose of this app is to help people remember Christ in their every day lives.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
@@ -12,9 +12,7 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
-
-{Describe the programming language that you used and any libraries.}
+I am developing this app in Android Studio using Java and XML.
 
 # Useful Websites
 
@@ -24,7 +22,6 @@
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Get the images dynamically from a folder, then later get them dynamically from a database. (Currently they are hardcoded.)
+* Optimize the UI for every Android experience. (The UI is currently optimized for a Google Pixel 5.)
+* Upload it to the Google Play Store
