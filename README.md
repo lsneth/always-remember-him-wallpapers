@@ -16,9 +16,9 @@ I am developing this app in Android Studio using Java and XML.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [YouTube - Implement Grid View in Android Studio with Save & Share Image Feature using Base Adapter || Part 1](https://www.youtube.com/watch?v=XSlvGizGxEs)
 * [Stack Overflow](https://stackoverflow.com/)
+* [Android Documentation for Developers](https://developer.android.com/docs)
 
 # Future Work
 
