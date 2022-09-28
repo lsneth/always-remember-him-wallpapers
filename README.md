@@ -1,10 +1,6 @@
 # Overview
 
-I am creating this app to get a basic understanding of Android Studio and practice Java.
-
-This is an app that provides wallpapers of Jesus Christ. Simply download the app, choose a wallpaper, and select "Set Wallpaper!"
-
-The purpose of this app is to help people remember Christ in their every day lives.
+I am creating this project to get a basic understanding of Android Studio and practice Java. It's an app that provides wallpapers of Jesus Christ. The purpose of this app is to help people remember Christ in their every day lives.
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
 
@@ -22,6 +18,7 @@ I am developing this app in Android Studio using Java and XML.
 
 # Future Work
 
+* Have a 'daily wallpaper' option that automatically sets a new wallpaper every day
 * Get the images dynamically from a folder, then later get them dynamically from a database. (Currently they are hardcoded.)
 * Optimize the UI for every Android experience. (The UI is currently optimized for a Google Pixel 5.)
 * Create a standard wallpaper setter UI. (drag/resize, set home screen or lock screen or both)
