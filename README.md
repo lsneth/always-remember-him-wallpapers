@@ -17,11 +17,12 @@ I am developing this app in Android Studio using Java and XML.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [YouTube - Implement Grid View in Android Studio with Save & Share Image Feature using Base Adapter || Part 1](https://www.youtube.com/watch?v=XSlvGizGxEs)
+* [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
 
 * Get the images dynamically from a folder, then later get them dynamically from a database. (Currently they are hardcoded.)
 * Optimize the UI for every Android experience. (The UI is currently optimized for a Google Pixel 5.)
+* Create a standard wallpaper setter UI. (drag/resize, set home screen or lock screen or both)
 * Upload it to the Google Play Store
