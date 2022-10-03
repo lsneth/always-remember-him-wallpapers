@@ -1,6 +1,6 @@
 # Overview
 
-This is an app that provides wallpapers of Jesus Christ. It's purpose is to help people remember Christ in their every day lives. I am creating this project to get a basic understanding of Android Studio and practice Java. 
+This is an android app that provides wallpapers of Jesus Christ. It's purpose is to help people remember Christ in their every day lives. I am creating this project to get a basic understanding of Android Studio and practice Java. 
 
 [See a video demo here](https://youtu.be/bApZGmyciAc)
 
